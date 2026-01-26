@@ -4,7 +4,7 @@
 <strong>A living resource for Vision-Language Models & multimodal learning  
 (papers, models, datasets, benchmarks, tools, ethical challenges, research directions)</strong>
 
-[![Last Updated](https://img.shields.io/badge/Updated-November%202025-brightpurple)](https://github.com/your-username/awesome-vision-language-models/commits/main)
+[![Last Updated](https://img.shields.io/badge/Updated-January%202026-brightpurple)](https://github.com/your-username/awesome-vision-language-models/commits/main)
 [![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/your-username/awesome-vision-language-models/blob/main/LICENSE)
 [![Contributions](https://img.shields.io/badge/Contributions-Welcome-yellow)](https://github.com/your-username/awesome-vision-language-models/blob/main/LICENSE)
 
